@@ -5,7 +5,7 @@
 }
 
 .top-logo{
-    display: none;
+    display: none !important;
 }
 
 .pul-layout__sidebar-inner{
@@ -23,4 +23,12 @@
 
 .page-sidebar-menu a:focus, .page-sidebar-menu a:hover{
     background-color: #EFA211;
+}
+
+.pul-heading{
+    color: white !important;
+}
+
+.pul-panel__header{
+    background-color: #222;
 }
