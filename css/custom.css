@@ -1,1 +1,26 @@
 /*! custom */
+
+.pul-layout__footer{
+    display: none;
+}
+
+.top-logo{
+    display: none;
+}
+
+.pul-layout__sidebar-inner{
+    background-color: #222;
+}
+
+.page-sidebar-menu .sub-menu .active>a, .page-sidebar-menu .sub-menu .active>a:hover{
+    background-color: #EFA211;
+}
+
+.page-sidebar-menu .menu-group-title{
+    background-color: #3b3e42;
+    color: white !important;
+}
+
+.page-sidebar-menu a:focus, .page-sidebar-menu a:hover{
+    background-color: #EFA211;
+}
